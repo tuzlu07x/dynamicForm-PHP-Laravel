@@ -3,8 +3,7 @@
 <p align="center">PHP 8.1 Laravel making Dynamic Form </p>
 
 ## Usage
-
-composer require ftuzlu/dynamicform
+    composer require ftuzlu/dynamicform
 
 ```php
 <?php
