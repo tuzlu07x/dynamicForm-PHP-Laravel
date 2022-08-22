@@ -62,5 +62,6 @@ SOFTWARE.
 
 ## Author
 
-    Fatih Tuzlu <
-    fatihtuzlu07@gmail.com <
+    Fatih Tuzlu
+    
+    fatihtuzlu07@gmail.com
