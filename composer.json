@@ -1,0 +1,25 @@
+{
+    "name": "ftuzlu/dynamicform",
+    "description": "Making Dynamic Form on PHP",
+    "license": "MIT",
+    "keywords": [
+        "form",
+        "dynamic form",
+        "php",
+        "laravel dynamic form"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ftuzlu\\DynamicForm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fatih Tuzlu",
+            "email": "fatihtuzlu07@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1.0"
+    }
+}
