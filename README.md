@@ -2,12 +2,11 @@
 
 <p align="center">PHP 8.1 Laravel making Dynamic Form </p>
 
-## Setup
-composer require fatihtuzlu/dynamic-form
-
 ## Usage
 
-        composer require ftuzlu/dynamicform
+## Setup
+
+composer require ftuzlu/dynamicform
 
 ```php
 <?php
