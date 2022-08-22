@@ -4,8 +4,6 @@
 
 ## Usage
 
-## Setup
-
 composer require ftuzlu/dynamicform
 
 ```php
