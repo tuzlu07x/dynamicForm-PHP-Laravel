@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Ftuzlu\\Dynamicform\\' => array($baseDir . '/src'),
+    'Ftuzlu\\DynamicForm\\' => array($baseDir . '/src'),
 );

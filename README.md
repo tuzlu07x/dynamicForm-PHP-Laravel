@@ -7,7 +7,7 @@ composer require fatihtuzlu/dynamic-form
 
 ## Usage
 
-You can use this package in your project.
+        composer require ftuzlu/dynamicform
 
 ```php
 <?php

@@ -9,12 +9,12 @@ class ComposerStaticInit37a599da898c365cbbc7a92dee82a4bb
     public static $prefixLengthsPsr4 = array (
         'F' => 
         array (
-            'Ftuzlu\\Dynamicform\\' => 19,
+            'Ftuzlu\\DynamicForm\\' => 19,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Ftuzlu\\Dynamicform\\' => 
+        'Ftuzlu\\DynamicForm\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
