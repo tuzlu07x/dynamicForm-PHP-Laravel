@@ -13,16 +13,16 @@ composer require fatihtuzlu/dynamic-form
 <?php
 $builder = new Form('title', 'name','description', 'color');
 
-            $builderGroup = new Group($group->title, $group->name, $group->description, $group->color);
+            $builderGroup = new Group('title', 'name', 'description', 'color');
             $builder->addGroup($builderGroup);
                 $builderInput = new Input(
-                    $input->label,
-                    $input->name,
-                    $input->type,
-                    $input->placeholder,
-                    $input->description,
-                    $input->prefix,
-                    $input->suffix,
+                    'label',
+                    'name',
+                    'type',
+                    'placeholder',
+                    'value',
+                    'prefix',
+                    'suffix',
                 );
                 $builderGroup->addInput($builderInput);
                 $builderInput->setRequired($input->required);
