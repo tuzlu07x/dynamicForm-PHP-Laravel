@@ -1,6 +1,6 @@
 <?php
 
-namespace EFINANS;
+namespace DynamicForm;
 
 use Dynamicform\Form;
 use Dynamicform\Group;
